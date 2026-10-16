@@ -127,3 +127,16 @@ La arquitectura propuesta permite desarrollar el MVP utilizando tecnologías com
 ### 3. Valoración del MVP
 
 Sí, consideramos que el MVP es viable. Contamos con un equipo de 4 personas con unos conocimientos variados y optimos, lo que nos permite avanzar rápido en el núcleo del proyecto mientras asumimos la curva de aprendizaje de las nuevas tecnologías sin bloquear el desarrollo.
+
+
+## 4. Identificación y Mitigación de Riesgos Técnicos
+
+| # | Riesgo Potencial | Estrategia de Mitigación (Sencilla y Temporal) |
+| :--- | :--- | :--- |
+| **1** | **Bloqueo en Frameworks / Node.js:** Que el equipo se atasque aprendiendo el entorno de servidor nuevo. | **Plantilla base ("Copiar y pegar"):** Gonzalo y Óscar crean un único controlador y ruta de ejemplo funcional el primer día. El resto solo tiene que duplicar ese archivo y cambiar los nombres para sus tareas. |
+| **2** | **Retraso conectando Frontend y API:** Que el Backend tarde en estar listo y frene a los que hacen las vistas. | **Datos falsos (JSON local):** Mientras la API no esté lista, el Frontend trabajará leyendo un archivo `.json` estático con datos de prueba para no detener la maquetación. |
+| **3** | **Fallos con Docker o Base de Datos local:** Perder días porque a alguien no le arranca el contenedor o el gestor SQL. | **BD en la nube compartida o SQLite temporal:** Si Docker da problemas el primer día, usaremos una base de datos gratuita en la nube (o un archivo local simple) para programar rápido y dejaremos Docker para el final. |
+| **4** | **Caída o fallo del despliegue a última hora:** No saber subir la web a un servidor real el día antes de la entrega. | **PaaS automático desde la Semana 2:** Conectar el repositorio a un servicio gratuito de despliegue en 1 clic (como Render o Vercel) al principio. Si el servidor falla el día de la presentación, tener preparado un túnel local (Ngrok) o vídeo de respaldo. |
+| **5** | **Conflictos graves en Git:** Pisar el código de los compañeros al tocar los mismos archivos a la vez. | **Un archivo por persona y copias diarias:** Dividir el trabajo en carpetas/archivos separados (cada uno su pantalla) y hacer `merge` todos juntos en clase 10 minutos antes de irnos. |
+| **6** | **Falta de tiempo por bugs complejos:** Quedarse atascado días en un error (ej. login complejo o subida de fotos). | **Regla de las 2 horas:** Si algo lleva más de 2 horas dando error, se solicita la ayuda de un compañero. |
+
