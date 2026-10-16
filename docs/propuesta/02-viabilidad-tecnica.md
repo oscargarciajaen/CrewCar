@@ -99,3 +99,31 @@ La arquitectura propuesta permite desarrollar el MVP utilizando tecnologías com
 - Vercel: https://vercel.com/docs/plans/hobby
 - Render: https://render.com/docs/free
 - MongoDB Atlas: https://www.mongodb.com/docs/atlas/reference/limits/
+
+## Evaluación de las capacidades del equipo
+
+### 1. Inventario de capacidades técnicas personales
+
+| Tecnología | Gonzalo | Ismael | Óscar | Laura |
+| :--- | :---: | :---: | :---: | :---: |
+| **Kotlin / Python / SQL** | ✅ | ✅ | ✅ | ✅ |
+| **HTML / CSS** | ✅ | ✅ | ✅ | ✅ |
+| **Java** | ✅ | Básico | Básico | Básico |
+| **JavaScript** | Básico | ❌ | ✅ | ❌ |
+| **Spring Boot / Laravel / PHP** | ✅ | ❌ | ❌ | ❌ |
+| **Android Studio** | ✅ | ❌ | ❌ | ❌ |
+| **MongoDB** | ❌ | ❌ | ✅ | ❌ |
+| **Testing (Kotlin)** | ❌ | ❌ | ✅ | ❌ |
+| **Figma** | ✅ | ❌ | ✅ | ❌ |
+
+### 2. Lagunas de Conocimiento (Qué toca aprender)
+
+* **JavaScript y Node.js:** Solo Óscar sabe JS en cliente y nadie tiene experiencia en **Node.js**. Tocará aprender desde cero el entorno de ejecución en servidor, gestión de paquetes (`npm`) y programación asíncrona.
+* **Trabajo con APIs (REST):** Necesitaremos aprender a diseñar endpoints, manejar peticiones/respuestas en formato JSON, códigos de estado HTTP y consumo desde el frontend (`fetch`).
+* **Docker y Contenedorización:** Ningún miembro domina la creación de contenedores (`Dockerfile`, `docker-compose`) para estandarizar el entorno de desarrollo y la base de datos entre los cuatro.
+* **Despliegue de la Aplicación:** Falta experiencia en pasar el proyecto de local a producción (configuración de servidores, variables de entorno, hosting cloud y CI/CD básico).
+* **Frameworks Backend y Testing:** Dependencia en un solo miembro (Gonzalo en Spring/Laravel y Óscar en Testing/MongoDB). El resto deberá aprender las bases si se incluyen en el stack final para evitar cuellos de botella.
+
+### 3. Valoración del MVP
+
+Sí, consideramos que el MVP es viable. Contamos con un equipo de 4 personas con unos conocimientos variados y optimos, lo que nos permite avanzar rápido en el núcleo del proyecto mientras asumimos la curva de aprendizaje de las nuevas tecnologías sin bloquear el desarrollo.
