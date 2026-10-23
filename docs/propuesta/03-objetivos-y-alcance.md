@@ -1,5 +1,8 @@
 # Fase 3 · Objetivos y alcance · <estudio>
 ## Introducción
+
+En esta fase definimos las metas concretas del proyecto y establecemos sus límites operativos. A través de objetivos medibles, concretamos cómo vamos a evaluar el éxito en la búsqueda técnica de recambios, el sistema de las alertas, la geolocalización en el mapa y la faciliad de contacto entre los usuarios. Asimismo, delimitamos el alcance fijando la plataforma web móvil elegia, el perfil y volumen de datos que usaremos en las demos, las funcionalidades excluidas en esta etapa y el orden de prioridades para futuras implementaciones.
+
 ## 1. Objetivos
 ### Objetivo general
 Conseguir que particulares y profesionales puedan encontrar recambios de coche compatibles y conectar con otros usuarios cercanos mediante filtros técnicos y un mapa interactivo con Google Maps.
