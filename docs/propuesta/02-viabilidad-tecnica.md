@@ -47,7 +47,7 @@ El panel de moderación para gestionar esos avisos queda fuera del MVP (es Shoul
 ## 4. Requisitos técnicos: frontend e infraestructura
 
 ### Frontend
-Vamos a utilizar **React** para crear una interfaz sencilla que se adapte tanto a móviles como a ordenadores, organizada a través de componentes reutilizables.
+Vamos a utilizar **React** para crear una interfaz sencilla que se adapte bien a las plataformas móviles, organizada a través de componentes reutilizables.
 
 | **Tecnología** | **Función** |
 |---|---|
