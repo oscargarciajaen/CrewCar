@@ -64,12 +64,13 @@ Cada módulo tiene una persona responsable y otra de apoyo. El responsable lleva
 
 | Módulo | Requisitos (RF) | Responsable | Apoyo |
 |---|---|---|---|
-| Usuarios y perfiles | Registro, inicio de sesión y perfiles de usuario. | Oscar | Ismael |
-| Catálogo y anuncios | Publicación, consulta y búsqueda de recambios con filtros técnicos. | Gonzalo | Laura |
+| Usuarios y perfiles | Registro, inicio de sesión y perfiles de usuario. | Laura | Ismael |
+| Catálogo y anuncios | Publicación, consulta y búsqueda de recambios con filtros técnicos. | Gonzalo | Oscar |
 | Mensajería | Comunicación privada entre compradores y vendedores. | Gonzalo | Oscar |
-| Moderación con IA | Análisis de las conversaciones y registro de avisos de posible fraude. | Oscar | Laura |
+| Generación del mapa | Mapa que conecta a sus usuarios en tiempo real con filtros. | Oscar | Gonzalo |
+| Amigos | Los usuarios podran hacer amigos. | Oscar | Gonzalo |
 | Base de datos | Almacenamiento y organización de usuarios, anuncios, conversaciones y avisos. | Laura | Ismael |
-| Pruebas y despliegue | Comprobación del MVP y publicación de la aplicación. | Ismael | Gonzalo |
+| Pruebas y despliegue | Comprobación del MVP y publicación de la aplicación. | Ismael | Laura |
 
 #### Comunicación
 
