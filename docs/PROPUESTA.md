@@ -30,9 +30,12 @@ En esta fase definimos el problema principal que resuelve nuestra plataforma: la
 ### Casos de Uso
 * Búsqueda técnica avanzada con filtros por vehículo y referencia OEM.
 * Creación de alertas de stock personalizadas para piezas difíciles de encontrar.
-* Negociación mediante chat integrado, supervisado en segundo plano por una IA que detecta fraudes y avisa a moderación.
+* Negociación mediante chat integrado.
 * Consulta de perfiles de fiabilidad, valoraciones e historial de transacciones.
 * Panel de moderación activo para que los administradores intervengan ante incidencias graves.
+* Posibilidad de realizar amigos
+* Mapa con usuarios online
+* Filtrado de mapa mediante amistades y poder ocultar tu estado en linea a los demás usuarios
 
 ### Competidores
 1. *Wallapop / Milanuncios:* Gran volumen de usuarios, pero sin filtros técnicos mecánicos ni moderación activa contra fraudes en chats.
