@@ -7,14 +7,13 @@ Incluye:
 - Mensajería directa entre usuarios, supervisada por una inteligencia artificial que analiza las conversaciones en segundo plano para detectar fraudes, discusiones o lenguaje inapropiado y emitir alertas automáticas a los administradores.
 - Catálogo categorizado de piezas con filtros avanzados por marca, modelo y año.
 - Sistema de alertas automáticas para piezas difíciles de encontrar.
-- Panel de moderación para que los administradores gestionen las incidencias reportadas por la IA.
 ## Fase 1 · El problema
 
 ### Introducción
 En esta fase definimos el problema principal que resuelve nuestra plataforma: la dificultad de encontrar recambios de coche compatibles y comprarlos sin riesgo de estafa. Analizamos a quién afecta, su impacto, los usuarios objetivo, los casos de uso, la competencia y la propuesta de valor.
 
 ### El Problema
-* **Problema:** El mercado de recambios entre particulares y profesionales sufre fragmentación, ausencia de filtros técnicos adecuados y alto riesgo de estafas. Nuestra plataforma centraliza la oferta y demanda bajo un catálogo estructurado y un entorno seguro supervisado por inteligencia artificial.
+* **Problema:** El mercado de recambios entre particulares y profesionales sufre fragmentación, ausencia de filtros técnicos adecuados y alto riesgo de estafas. Nuestra plataforma centraliza la oferta y demanda bajo un catálogo estructurado.
 * **¿A quién afecta?** 
   * *Restauradores y aficionados al motor:* Buscan piezas clásicas o descatalogadas con compatibilidad exacta.
   * *Propietarios particulares:* Conductores con presupuesto ajustado que temen ser estafados o comprar piezas erróneas.
@@ -32,7 +31,6 @@ En esta fase definimos el problema principal que resuelve nuestra plataforma: la
 * Creación de alertas de stock personalizadas para piezas difíciles de encontrar.
 * Negociación mediante chat integrado.
 * Consulta de perfiles de fiabilidad, valoraciones e historial de transacciones.
-* Panel de moderación activo para que los administradores intervengan ante incidencias graves.
 * Posibilidad de realizar amigos
 * Mapa con usuarios online
 * Filtrado de mapa mediante amistades y poder ocultar tu estado en linea a los demás usuarios
@@ -41,10 +39,10 @@ En esta fase definimos el problema principal que resuelve nuestra plataforma: la
 1. *Wallapop / Milanuncios:* Gran volumen de usuarios, pero sin filtros técnicos mecánicos ni moderación activa contra fraudes en chats.
 2. *Oscaro / Autodoc:* Buen catálogo estructurado, pero limitado a piezas nuevas de consumo masivo, sin mercado de segunda mano ni particulares.
 3. *RecambioVerde / EcoOpArts:* Especializados en desguaces (CAT), pero excluyen el trato, compraventa o intercambio directo entre particulares y restauradores.
-* **Valor diferencial:** Marketplace vertical especializado con catálogo técnico y supervisión inteligente de conversaciones mediante IA para garantizar tratos seguros.
+* **Valor diferencial:** Marketplace vertical especializado con catálogo técnico.
 
 ### Propuesta de valor
-Plataforma web móvil que conecta a particulares, aficionados y profesionales para la búsqueda, compraventa e intercambio de recambios de coche con precisión técnica y un entorno protegido por IA frente a fraudes y disputas.
+Plataforma web móvil que conecta a particulares, aficionados y profesionales para la búsqueda, compraventa e intercambio de recambios de coche con precisión técnica.
 
 ## Fase 2 · Viabilidad técnica
 
