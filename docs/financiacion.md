@@ -14,12 +14,11 @@ Según el presupuesto, desarrollar el MVP cuesta unas 204 horas, es decir, 4.080
 | Backend | Render, plan de pago básico (evita que el servidor se apague) | 7 € |
 | Base de datos | MongoDB Atlas, primer plan de pago (el gratuito se queda corto) | 30 € |
 | Mapa | Google Maps Platform | 20 € |
-| IA de moderación | API de IA (si no es viable, reglas propias) | 30 € |
 | Imágenes | Cloudinary, plan gratuito | 0 € |
 | Emails | Brevo o SendGrid, plan gratuito | 0 € |
 | Monitorización | Sentry, plan gratuito | 0 € |
 | Dominio | 12 € al año | 1 € |
-| **Total** | | **107 € (unos 110 €)** |
+| **Total** | | **77 € (unos 80 €)** |
 
 Para la demo con 10-15 cuentas de prueba, MongoDB Atlas gratuito es suficiente. Con usuarios reales pasaríamos a un plan de pago.
 
@@ -43,11 +42,11 @@ Al principio no habrá ingresos, porque el servicio es gratuito en el MVP.
 
 | Gasto fijo | Al mes |
 |---|---|
-| Infraestructura y servicios | 110 € |
+| Infraestructura y servicios | 80 € |
 | Gestoría | 50 € |
-| **Total** | **160 €** |
+| **Total** | **130 €** |
 
-El fondo de emergencia de 6 meses es 160 € × 6 = **960 €**. Con ese dinero podríamos funcionar 6 meses sin ingresos y sin sueldos.
+El fondo de emergencia de 6 meses es 130 € × 6 = **780 €**. Con ese dinero podríamos funcionar 6 meses sin ingresos y sin sueldos.
 
 ## 6. Fuentes de financiación
 
@@ -71,17 +70,17 @@ El fondo de emergencia de 6 meses es 160 € × 6 = **960 €**. Con ese dinero 
 | Asesoría legal | 600 € |
 | Marca | 300 € |
 | Marketing | 1.000 € |
-| Infraestructura (6 meses) | 660 € |
+| Infraestructura (6 meses) | 480 € |
 | Gestoría (6 meses) | 300 € |
-| Imprevistos (10 %) | 336 € |
-| **Total** | **3.696 €, que redondeamos a 4.000 €** |
+| Imprevistos (10 %) | 318 € |
+| **Total** | **3.498 €, que redondeamos a 3.500 €** |
 
 ### Cómo lo conseguiríamos
-1. **Primeros 6 meses:** autofinanciación. Cada socio aportaría unos 1.000 € (4.000 € en total).
+1. **Primeros 6 meses:** autofinanciación. Cada socio aportaría unos 875 € (3.500 € en total).
 2. **De los 6 a los 12 meses:** con la empresa creada y los primeros usuarios, pediríamos una ayuda pública o un préstamo participativo y nos presentaríamos a una aceleradora.
 3. **Cuando crezcamos:** buscaríamos business angels para contratar desarrolladores y moderadores.
 
 ### Por qué lo proponemos así
 - El MVP es gratuito y no genera ingresos, por lo que endeudarnos pronto sería arriesgado.
-- Arrancar cuesta poco (unos 4.000 €) y podemos asumirlo entre los cuatro.
+- Arrancar cuesta poco (unos 3.500 €) y podemos asumirlo entre los cuatro.
 - Las ayudas y los inversores piden resultados, así que primero hay que demostrar que el producto funciona.
