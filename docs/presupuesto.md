@@ -70,10 +70,9 @@ Esta tabla se actualiza al final de cada sprint con los datos de Toggl.
 | Vercel, Render y MongoDB Atlas (planes gratuitos) | 0 € |
 | Google Maps, Cloudinary, Toggl, GitHub y Bitwarden (planes gratuitos) | 0 € |
 | Dominio | 12 € al año |
-| API de IA para las pruebas de moderación | 5 € |
 | Licencias de software | 0 € |
 | Marketing | 0 € |
-| **Total** | **17 €** |
+| **Total** | **12 €** |
 
 ## 7. Presupuesto total
 
@@ -81,4 +80,4 @@ Esta tabla se actualiza al final de cada sprint con los datos de Toggl.
 |---|---|
 | Desarrollo (204 horas) | 4.080 € |
 | Costes adicionales | 17 € |
-| **Total estimado** | **4.097 €** |
+| **Total estimado** | **4.092 €** |
