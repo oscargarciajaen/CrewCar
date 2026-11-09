@@ -4,43 +4,42 @@
 
 ## 1. Identificación y estado de partida
 
-- **Equipo:**
-- **Fecha de reunión:**
-- **Sprint / ciclo:**
-- **Integrantes presentes:**
-- **Integrantes ausentes y cómo se compartirán los acuerdos:**
-- **Repositorio:**
-- **GitHub Project:**
-- **Propuesta informal (enlace y estado):** borrador / entregada / revisada
-- **Propuesta formal (enlace y estado):** borrador / entregada / revisada
-- **¿Repo y Project accesibles para el equipo?:** sí / no; incidencia:
+- **Equipo: 3º CrewCar**
+- **Fecha de reunión: 9-11-26**
+- **Sprint / ciclo: 1º**
+- **Integrantes presentes: 2**
+- **Integrantes ausentes y cómo se compartirán los acuerdos: Laura Sanchez e Ismael Íñiguez**
+- **Repositorio: https://github.com/oscargarciajaen/CrewCar**
+- **GitHub Project: https://github.com/users/oscargarciajaen/projects/7**
+- **Propuesta informal (enlace y estado): https://github.com/oscargarciajaen/CrewCar/blob/main/docs/propuesta/01-problema.md** 
+- **Propuesta formal (enlace y estado): https://github.com/oscargarciajaen/CrewCar/blob/develop-proyecto/docs/PROPUESTA.md** 
+- **¿Repo y Project accesibles para el equipo?: sí**
 
 ## 2. Objetivo y alcance vigentes
 
-- **Problema y persona usuaria:**
-- **Objetivo del producto:**
-- **MVP / resultado mínimo previsto:**
-- **Incluye en este momento:**
-- **Queda fuera por ahora:**
-- **Supuestos o preguntas por validar:**
-- **¿Ha cambiado la propuesta o el alcance desde la reunión anterior?:** no / sí; motivo y referencia:
+- **Problema y persona usuaria:** El bajo stock de piezas de coches antiguos y la complejidad de encontrar personas amantes del motor.
+- **Objetivo del producto:** Facilitar el acceso a piezas a personas con coches antiguos y generar solcialización entre usuarios.
+- **MVP / resultado mínimo previsto:** Una plataforma que permite crear anuncios solicitando y ofreciendo piezas, además de un sistema de amigos y mapas para compatir ubicación.
+- **Incluye en este momento:** Absolutamente nada puesto que no hemos empezado a programar
+- **Queda fuera por ahora:** Pues pasarelas de pago.
+- **Supuestos o preguntas por validar:** Plataforma de gestión de ofertas de otros negocios.
+- **¿Ha cambiado la propuesta o el alcance desde la reunión anterior?:** sí; Gracias al feedback de la presentación de nuestra aplicación.
 
 ## 3. Revisión desde la última reunión
 
 | Trabajo previsto (issue/enlace) | Estado real | Qué se ha realizado | Evidencia comprobable (enlace) | Criterio o resultado verificado |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
+|Presentación de idea de proyecto|Completado|Se ha realizado una exposición de la idea de proyecto|[Presentación](https://docs.google.com/presentation/d/1q04qrzbjqhF-epjVSHfRCK6VgWbmGQZxn-ohZEsDkGc/edit?slide=id.h1b6a27005979f206_7_26#slide=id.h1b6a27005979f206_7_26)|No era evaluable|
 
-- **Resultado demostrable del ciclo:**
-- **Trabajo que no se terminó y motivo:**
-- **¿Qué aprendimos o qué cambió nuestra comprensión?:**
+- **Resultado demostrable del ciclo:** La presentación.
+- **Trabajo que no se terminó y motivo:** No hubo trabajo sin terminar puesto que cumplimos nuestro objetivo.
+- **¿Qué aprendimos o qué cambió nuestra comprensión?:** Mejoramos nuestra capacidad de comunicación además de aprender de tecnologías como Node y Vercel.
 
 ## 4. Incidencias, riesgos y decisiones
 
 | Incidencia, riesgo o cambio | Efecto en el objetivo, alcance o calendario | Decisión / alternativa elegida y motivo | Responsable del siguiente paso | Fecha de comprobación | Enlace |
 | --- | --- | --- | --- | --- | --- |
-| | | | | | |
+|Ampliación del mvp|Mayor carga de trabajo|Hemos decidido hacerlo|Laura Sanchez|13-11-26|No hay evidencias|
 
 Si no hay incidencias o cambios, escribid **«No se han identificado»**; no dejéis el apartado ambiguo.
 
@@ -84,7 +83,7 @@ Cada integrante completa su fila. La asignación de un issue no sustituye a expl
 
 | Estudiante | Aportación propia concreta | Evidencia / enlace | Decisión o problema que puede explicar | Siguiente paso |
 | --- | --- | --- | --- | --- |
-| | | | | |
+|Óscar García Jaén|Añadir las diapositivas 1 - 6|El trabajo no se puede evidenciar|Tras la presentación propuse hacer que nuestra aplicación mostrase productos de otros comercios|Modificar el MVP y Empezar con el código|
 | | | | | |
 
 La plantilla registra el proceso y ayuda a organizar el proyecto. No se obtiene una nota por rellenarla, contar issues o registrar horas; el profesorado revisará evidencias y aportaciones según los criterios publicados.
