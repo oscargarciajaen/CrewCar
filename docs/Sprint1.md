@@ -45,15 +45,15 @@ Si no hay incidencias o cambios, escribid **«No se han identificado»**; no dej
 
 ## 5. Retrospectiva breve
 
-- **Mantener:** ¿qué nos ayudó a avanzar?
-- **Cambiar:** ¿qué nos retrasó o generó confusión?
-- **Probar en el próximo ciclo:** acción concreta, responsable y forma de comprobar si ayuda.
+- **Mantener:** El feedback de compañeros y profesorado en la presentación del proyecto.
+- **Cambiar:** Ser 3 en una presentación de 4 personas, a un día de la presentación.
+- **Probar en el próximo ciclo:** Mejorar la comunicación y la química de ciertas partes del equipo.
 
 ## 6. Plan del siguiente sprint o ciclo
 
-- **Fechas previstas:** desde __________ hasta __________
-- **Objetivo del sprint (un resultado útil y verificable):**
-- **Qué queda fuera de este sprint:**
+- **Fechas previstas:** desde 6-11-2026 hasta 13-11-2026
+- **Objetivo del sprint (un resultado útil y verificable):** Actualizar el MVP y la propuesta del proyecto.
+- **Qué queda fuera de este sprint:** 
 
 | Orden | Issue / resultado | Por qué contribuye al objetivo | Dependencias | Responsable(s) inicial(es) | Estimación / tamaño | Cómo se comprobará |
 | ---: | --- | --- | --- | --- | --- | --- |
@@ -63,19 +63,19 @@ Si no hay incidencias o cambios, escribid **«No se han identificado»**; no dej
 
 - **¿El trabajo seleccionado es abordable con el tiempo y recursos disponibles?:** sí / revisar; motivo:
 - **¿Qué debemos aclarar o dividir antes de empezar?:**
-- **Próxima revisión:** fecha y evidencia que se espera poder mostrar:
+- **Próxima revisión:** 13-11-2026
 
 ## 7. Acuerdos y actualización del tablero
 
-- [ ] Issues seleccionados vinculados al objetivo.
-- [ ] Prioridades y dependencias actualizadas.
-- [ ] Responsables iniciales y colaboración visibles.
-- [ ] Estados del Project coinciden con la situación real.
-- [ ] Bloqueos anotados con siguiente paso.
+- [X] Issues seleccionados vinculados al objetivo.
+- [X] Prioridades y dependencias actualizadas.
+- [X] Responsables iniciales y colaboración visibles.
+- [X] Estados del Project coinciden con la situación real.
+- [X] Bloqueos anotados con siguiente paso.
 - [ ] Documentación enlazada y actualizada, sin mantener copias contradictorias.
-- [ ] Fecha de revisión comunicada a quienes no estuvieron.
+- [X] Fecha de revisión comunicada a quienes no estuvieron.
 
-**Acuerdos que debe recordar el equipo:**
+**Acuerdos que debe recordar el equipo:** responder a mensajes del grupo incluso si es para indicar que no pueden en ese momento, mejora de la comunicación y de la iniciativa de ciertos integrantes del equipo.
 
 ## 8. Aportación individual
 
@@ -83,7 +83,7 @@ Cada integrante completa su fila. La asignación de un issue no sustituye a expl
 
 | Estudiante | Aportación propia concreta | Evidencia / enlace | Decisión o problema que puede explicar | Siguiente paso |
 | --- | --- | --- | --- | --- |
-|Óscar García Jaén|Añadir las diapositivas 1 - 6|El trabajo no se puede evidenciar|Tras la presentación propuse hacer que nuestra aplicación mostrase productos de otros comercios|Modificar el MVP y Empezar con el código|
-| | | | | |
+|Óscar García Jaén|Añadir las diapositivas 1 - 6|El trabajo no se puede evidenciar|Tras la presentación propuse hacer que nuestra aplicación mostrase productos de otros comercios|Modificar el "01-problema.md" y Empezar con el código|
+|Gonzalo Pérez González|Añadir las diapositivas 7 - 12|El trabajo no se puede evidenciar|Tras la presentación participé en el proceso creativo de las futuras implementaciones |Modificar "PROPUESTA.md" y comenzar con el código |
 
 La plantilla registra el proceso y ayuda a organizar el proyecto. No se obtiene una nota por rellenarla, contar issues o registrar horas; el profesorado revisará evidencias y aportaciones según los criterios publicados.
