@@ -7,11 +7,7 @@ En esta fase comprobamos que el proyecto que planteamos en la fase 1 se puede co
 - El usuario puede realizar una búsqueda técnica avanzada, filtrando por marca, modelo, año, categoría o referencia.
 - El usuario puede añadir alertas de stock personalizadas para que le avisen cuando la pieza que busca esté disponible.
 - El usuario puede utilizar la mensajería directa integrada para comunicarse con otros usuarios.
-- La IA analiza en segundo plano las conversaciones entre usuarios para detectar casos de estafa, comportamientos sospechosos o lenguaje agresivo.
-- El sistema emite alertas automáticas al equipo de moderación cuando la IA detecta un riesgo o una anomalía en las conversaciones.
 - El usuario puede consultar el perfil de vendedores o compradores, revisando su historial, valoraciones y comentarios.
-- El administrador puede acceder a un panel de moderación activo para gestionar los avisos prioritarios generados por la IA, interviniendo o mediando en las incidencias.
-
 ## 2. Priorización MoSCoW
 
 ### Must Have
@@ -19,7 +15,6 @@ En esta fase comprobamos que el proyecto que planteamos en la fase 1 se puede co
 - El usuario puede publicar un anuncio de una pieza con sus detalles básicos.
 - El usuario puede buscar recambios aplicando filtros técnicos.
 - El usuario puede crear una conversación privada para negociar la compra.
-- La IA puede auditar las conversaciones en segundo plano para detectar fraudes y avisar a moderación.
 
 ### Should Have
 - El usuario puede activar una alerta de stock para piezas difíciles de encontrar.
@@ -40,7 +35,6 @@ El MVP es el recorrido mínimo para que un usuario pueda encontrar y comprar la 
 1. El usuario crea una cuenta y accede con ella.
 2. Filtra el catálogo por los datos técnicos de su coche. El vendedor, por su parte, ha publicado el anuncio de la pieza.
 3. Abre un chat interno con el vendedor para negociar la compra.
-4. La IA supervisa el chat en segundo plano y, si detecta intentos de estafa o comportamientos no permitidos, guarda un aviso para moderación.
 
 El panel de moderación para gestionar esos avisos queda fuera del MVP (es Should Have).
 
