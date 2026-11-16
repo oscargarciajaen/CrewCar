@@ -44,15 +44,15 @@ Si no hay incidencias o cambios, escribid **«No se han identificado»**; no dej
 
 ## 5. Retrospectiva breve
 
-- **Mantener:** ¿qué nos ayudó a avanzar?
-- **Cambiar:** ¿qué nos retrasó o generó confusión?
-- **Probar en el próximo ciclo:** acción concreta, responsable y forma de comprobar si ayuda.
+- **Mantener:** tenemos en mente mantenerlo todo como está planeado
+- **Cambiar:** dinámica de comunicación del equipo
+- **Probar en el próximo ciclo:** mejorar la comunicación, Ismael y Laura, para comprobarlos estarán los testimonios del resto del grupo
 
 ## 6. Plan del siguiente sprint o ciclo
 
-- **Fechas previstas:** desde __________ hasta __________
-- **Objetivo del sprint (un resultado útil y verificable):**
-- **Qué queda fuera de este sprint:**
+- **Fechas previstas:** desde 16/11/2026 hasta 20/11/2026
+- **Objetivo del sprint (un resultado útil y verificable):**terminar la maquetación del proyecto (wireframes y mockups)
+- **Qué queda fuera de este sprint:** en principio, no quedaría nada fuera del sprint, la maquetación acabará con el Sprint
 
 | Orden | Issue / resultado | Por qué contribuye al objetivo | Dependencias | Responsable(s) inicial(es) | Estimación / tamaño | Cómo se comprobará |
 | ---: | --- | --- | --- | --- | --- | --- |
@@ -60,21 +60,23 @@ Si no hay incidencias o cambios, escribid **«No se han identificado»**; no dej
 | 2 | | | | | | |
 | 3 | | | | | | |
 
-- **¿El trabajo seleccionado es abordable con el tiempo y recursos disponibles?:** sí / revisar; motivo:
-- **¿Qué debemos aclarar o dividir antes de empezar?:**
-- **Próxima revisión:** fecha y evidencia que se espera poder mostrar:
+NO hay presencia de issues ya que la maquetación se hará fuera de GitHub
+
+- **¿El trabajo seleccionado es abordable con el tiempo y recursos disponibles?:** sí, la maquetación en una semana se puede realizar perfectamente si nla organización es buena
+- **¿Qué debemos aclarar o dividir antes de empezar?:** las pantallas que haremos cadauno y los estilos que tendrá nuestra aplicación
+- **Próxima revisión:** 20/11/2026,se podrá comprobar desde el tablero de figma dondé tendremos la maquetación
 
 ## 7. Acuerdos y actualización del tablero
 
-- [ ] Issues seleccionados vinculados al objetivo.
-- [ ] Prioridades y dependencias actualizadas.
-- [ ] Responsables iniciales y colaboración visibles.
-- [ ] Estados del Project coinciden con la situación real.
-- [ ] Bloqueos anotados con siguiente paso.
-- [ ] Documentación enlazada y actualizada, sin mantener copias contradictorias.
-- [ ] Fecha de revisión comunicada a quienes no estuvieron.
+- [X] Issues seleccionados vinculados al objetivo.
+- [X] Prioridades y dependencias actualizadas.
+- [X] Responsables iniciales y colaboración visibles.
+- [X] Estados del Project coinciden con la situación real.
+- [X] Bloqueos anotados con siguiente paso.
+- [X] Documentación enlazada y actualizada, sin mantener copias contradictorias.
+- [X] Fecha de revisión comunicada a quienes no estuvieron.
 
-**Acuerdos que debe recordar el equipo:**
+**Acuerdos que debe recordar el equipo:** cada persona deberá realizar su parte del trabajo dentro del tiempo acordado
 
 ## 8. Aportación individual
 
@@ -82,7 +84,7 @@ Cada integrante completa su fila. La asignación de un issue no sustituye a expl
 
 | Estudiante | Aportación propia concreta | Evidencia / enlace | Decisión o problema que puede explicar | Siguiente paso |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
+|Gonzalo Pérez González |La mitad de las pantallas|[Figma](https://www.figma.com/design/9LfF2Vt7cDVbVua94gPuNu/Maquetaci%C3%B3n-Fullstack?node-id=3-15&t=UVwRHuhrfk8G41e3-1)|Las decisiones de diseño que hemos tomado|Empezar con el código de la aplicación|
+|Óscar García Jaén|La otra mitad de las pantallas|[Figma](https://www.figma.com/design/9LfF2Vt7cDVbVua94gPuNu/Maquetaci%C3%B3n-Fullstack?node-id=3-15&t=UVwRHuhrfk8G41e3-1)|Las decisiones de diseño tomadas durante el desarrollo|Iniciar el desarrollo de código|
 
 La plantilla registra el proceso y ayuda a organizar el proyecto. No se obtiene una nota por rellenarla, contar issues o registrar horas; el profesorado revisará evidencias y aportaciones según los criterios publicados.
