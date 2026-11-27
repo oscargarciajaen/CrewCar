@@ -28,7 +28,7 @@
 
 | Trabajo previsto (issue/enlace) | Estado real | Qué se ha realizado | Evidencia comprobable (enlace) | Criterio o resultado verificado |
 | --- | --- | --- | --- | --- |
-|Maquetación en figma.|En proceso|Los Wireframes|[Wireframe](https://www.figma.com/design/9LfF2Vt7cDVbVua94gPuNu/Maquetaci%C3%B3n-Fullstack?node-id=0-1&p=f&t=nkfJUwixKJFQcpUi-0)|No hay un criterio concreto|
+|Maquetación en figma.|Realizado|Los Wireframes|[Wireframe](https://www.figma.com/design/9LfF2Vt7cDVbVua94gPuNu/Maquetaci%C3%B3n-Fullstack?node-id=0-1&p=f&t=nkfJUwixKJFQcpUi-0)|No hay un criterio concreto|
 
 - **Resultado demostrable del ciclo:** El resultado debe ser una maquetacion en figma, tanto wireframe como  mockup
 - **Trabajo que no se terminó y motivo:** 
